@@ -1,0 +1,20 @@
+h1	{
+	font-size: 37px;
+	text-decoration: underline;
+}
+button	{
+	color: white;
+	padding: 5px 20px;
+	border-style: solid;
+	background-color: lightblue;
+	border-color: lightblue;
+	outline-color: lightblue;
+}
+button:active	{
+	color: white;
+	padding: 5px 20px;
+	border-style: solid;
+	background-color: lightgreen;
+	border-color: lightgreen;
+	outline-color: lightgreen;
+}

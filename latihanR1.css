@@ -1,0 +1,33 @@
+h1	{
+	color: red;
+
+}
+a	{
+	font-size: 17px;
+	color: black;
+	text-decoration: none;
+}
+a:hover	{
+	color: red;
+	text-decoration: none;
+}
+button	{
+	font-size: 19px;
+	color: red;
+	background-color: white;;
+	border-color: red;
+}
+button:hover	{
+	color: white;
+	background-color: red;
+}
+tr  {
+	text-align: center;
+}
+.but  {
+	box-shadow: 3px 3px 10px black;
+
+}
+p	{
+	font-size: 17px;
+}
